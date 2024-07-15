@@ -32,7 +32,7 @@ description = "llama-index readers box integration"
 license = "MIT"
 maintainers = [
     "barduinor",
-    "shurrey", 
+    "shurrey",
 ]
 name = "llama-index-readers-box"
 packages = [{include = "llama_index/"}]
