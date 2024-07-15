@@ -30,9 +30,9 @@ python_version = "3.12"
 authors = ["Box Developer Relations <dx@box.com>"]
 description = "llama-index readers box integration"
 license = "MIT"
-mainteners = [
+maintainers = [
     "barduinor",
-    "shurrey",
+    "shurrey", 
 ]
 name = "llama-index-readers-box"
 packages = [{include = "llama_index/"}]
